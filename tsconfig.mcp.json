@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": "./dist-mcp",
+    "rootDir": "./src"
+  },
+  "include": ["src/mcp/**/*", "src/shared/types.ts", "src/shared/ssh-client.ts"]
+}

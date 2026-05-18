@@ -1,0 +1,8 @@
+node_modules/
+out/
+dist-mcp/
+dist/
+*.log
+.claude/
+.mcp.json
+RemoteShell_v2_规划.md
